@@ -8,14 +8,15 @@
 - hands-on experience on test management and bug tracking tool __JIRA__
 
 #### :hammer_and_wrench: Languages and Tools :
-- Programming languages: Python, JavaScript, SQL, HTML5 and others
-- Browsers: Google Chrome, Safari, Mozilla Firefox, Edge, Internet Explorer, Opera
-- Automation Testing Tools: Selenium WebDriver, Selenium IDE and others
-- OS: Windows, MacOS, iOS, Android
+- _Programming languages_: Python, JavaScript, SQL, HTML5 and others
+- _Browsers_: Google Chrome, Safari, Mozilla Firefox, Edge, Internet Explorer, Opera
+- _Automation Testing Tools_: Selenium WebDriver, Selenium IDE and others
+- _OS_: Windows, MacOS, iOS, Android
 
 
-- 📫 How to reach me ... <div id="badges">
+ 📫 How to reach me ... <div id="badges">
       
+         
   <a href="https://www.linkedin.com/in/Julia-Evsukov/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
