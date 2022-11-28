@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m QA Manual and Automation Engineer
 
 ###        About me:
-- understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC)
+- understands Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC)
 - involved in Agile/Scrum Methodology in the project from requirements through the delivery of the project
 - proficient knowledge in various types of testing: Smoke, Regression, Sanity, and End-to-End
 - hands-on experience in the preparation of Test Cases, Test Reports, and Requirement Traceability Matrix
