@@ -8,6 +8,10 @@
 - hands-on experience on test management and bug tracking tool __JIRA__
 
 #### :hammer_and_wrench: Languages and Tools :
+- Programming languages: Python, JavaScript, SQL, HTML5 and others
+- Browsers: Google Chrome, Safari, Mozilla Firefox, Edge, Internet Explorer, Opera
+- Automation Testing Tools: Selenium WebDriver, Selenium IDE and others
+- OS: Windows, MacOS, iOS, Android
 
 
 - 📫 How to reach me ... <div id="badges">
