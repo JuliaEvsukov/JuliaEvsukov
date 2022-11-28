@@ -8,7 +8,7 @@
 - hands-on experience on test management and bug tracking tool JIRA
 - 📫 How to reach me ...
 
-<img src = "https://www.hurix.com/wp-content/w3-webp/uploads/2021/06/Quality-control-vs-quality-assurance-1200x565.jpgw3.webp">
+<img src="https://camo.githubusercontent.com/e3b826c88f0a531f685aede0fffc15247eb2124f89792cd644216a0fb9733833/68747470733a2f2f6275677a612e696e666f2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f496e7374616e7451415f426c6f67706f73742e6a7067">
 
 <!---
 JuliaEvsukov/JuliaEvsukov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
